@@ -2,4 +2,4 @@
 Pawnshop system.
 
 ### Technologies:
-Laravel 5.5.*, PHP, HTML, JS/JQuery.
+Laravel 5.5.*, PHP/MySQL, HTML, JS/JQuery.
